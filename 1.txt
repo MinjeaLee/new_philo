@@ -1,0 +1,803 @@
+includes/philo.h: Error!
+Error: SPACE_REPLACE_TAB    (line:  25, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  26, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  27, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  28, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  29, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  30, col:  23):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  30, col:  23):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  31, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  31, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  31, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  32, col:   5):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  33, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  33, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  34, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  34, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  35, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  35, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  36, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  36, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  37, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  41, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  42, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  43, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  43, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  44, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  44, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  45, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  46, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  46, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  46, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  47, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  47, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  48, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  48, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  49, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  49, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  50, col:  16):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  50, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  51, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  55, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  56, col:  12):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  56, col:  13):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  57, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  57, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  58, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  61, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  62, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  65, col:  10):	Found space when expecting tab
+Error: NO_ARGS_VOID         (line:  65, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  66, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  69, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  70, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  71, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  74, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  75, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  78, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  79, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  80, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  81, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  82, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  85, col:   5):	Found space when expecting tab
+src/monitor.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  14):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line:  17, col:  24):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  18, col:   9):	Misaligned variable declaration
+Error: FORBIDDEN_CS         (line:  22, col:   9):	Forbidden control structure
+Error: LINE_TOO_LONG        (line:  25, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  29, col:  84):	line too long
+Error: LINE_TOO_LONG        (line:  32, col:  89):	line too long
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  13):	Comment is invalid in this scope
+Error: TOO_MANY_LINES       (line:  45, col:   1):	Function has more than 25 lines
+src/check.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   5):	space before function name
+Error: BRACE_SHOULD_EOL     (line:  33, col:   1):	Expected newline after brace
+src/init.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   8):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  29, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  30, col:   9):	Misaligned variable declaration
+Error: LINE_TOO_LONG        (line:  43, col:  85):	line too long
+Error: SPACE_BEFORE_FUNC    (line:  49, col:  12):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  51, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  52, col:   9):	Misaligned variable declaration
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: LINE_TOO_LONG        (line:  64, col:  82):	line too long
+src/philo.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  12):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  18, col:   1):	Space on empty line
+Error: SPACE_AFTER_KW       (line:  27, col:  13):	Missing space after keyword
+Error: SPACE_AFTER_KW       (line:  30, col:  13):	Missing space after keyword
+Error: WRONG_SCOPE_COMMENT  (line:  34, col:   9):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  35, col:   9):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  42, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  52, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  54, col:   8):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  55, col:   1):	Space on empty line
+Error: SPACE_BEFORE_FUNC    (line:  69, col:   4):	space before function name
+src/utils.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  19, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: LINE_TOO_LONG        (line:  46, col:  83):	line too long
+Error: BRACE_SHOULD_EOL     (line:  50, col:   1):	Expected newline after brace
+src/time.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:  10):	space before function name
+Error: NO_ARGS_VOID         (line:  15, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  17, col:  19):	Found space when expecting tab
+Error: NEWLINE_PRECEDES_FUNC (line:  22, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line:  22, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  24, col:  14):	Found space when expecting tab
+Error: BRACE_SHOULD_EOL     (line:  29, col:   1):	Expected newline after brace
+src/status.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  21, col:   5):	Comment is invalid in this scope
+Error: EMPTY_LINE_FUNCTION  (line:  22, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  22, col:   1):	Space on empty line
+Error: WRONG_SCOPE_COMMENT  (line:  24, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  43, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  49, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  54, col:   5):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  67, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  68, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  69, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  70, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  71, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  72, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  73, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  74, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  75, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  76, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  77, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  78, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  79, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  80, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  83, col:   5):	space before function name
+includes/philo.h: Error!
+Error: SPACE_REPLACE_TAB    (line:  25, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  26, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  27, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  28, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  29, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  30, col:  23):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  30, col:  23):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  31, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  31, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  31, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  32, col:   5):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  33, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  33, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  34, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  34, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  35, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  35, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  36, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  36, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  37, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  41, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  42, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  43, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  43, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  44, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  44, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  45, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  46, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  46, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  46, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  47, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  47, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  48, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  48, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  49, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  49, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  50, col:  16):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  50, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  51, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  55, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  56, col:  12):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  56, col:  13):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  57, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  57, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  58, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  61, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  62, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  65, col:  10):	Found space when expecting tab
+Error: NO_ARGS_VOID         (line:  65, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  66, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  69, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  70, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  71, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  74, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  75, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  78, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  79, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  80, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  81, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  82, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  85, col:   5):	Found space when expecting tab
+src/monitor.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  14):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line:  17, col:  24):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  18, col:   9):	Misaligned variable declaration
+Error: FORBIDDEN_CS         (line:  22, col:   9):	Forbidden control structure
+Error: LINE_TOO_LONG        (line:  25, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  29, col:  84):	line too long
+Error: LINE_TOO_LONG        (line:  32, col:  89):	line too long
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  13):	Comment is invalid in this scope
+Error: TOO_MANY_LINES       (line:  45, col:   1):	Function has more than 25 lines
+src/check.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   5):	space before function name
+Error: BRACE_SHOULD_EOL     (line:  33, col:   1):	Expected newline after brace
+src/init.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   8):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  29, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  30, col:   9):	Misaligned variable declaration
+Error: LINE_TOO_LONG        (line:  43, col:  85):	line too long
+Error: SPACE_BEFORE_FUNC    (line:  49, col:  12):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  51, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  52, col:   9):	Misaligned variable declaration
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: LINE_TOO_LONG        (line:  64, col:  82):	line too long
+src/philo.c: Error!
+Error: SPACE_AFTER_KW       (line:  27, col:  13):	Missing space after keyword
+Error: SPACE_AFTER_KW       (line:  30, col:  13):	Missing space after keyword
+Error: SPACE_BEFORE_FUNC    (line:  38, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  50, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: SPACE_BEFORE_FUNC    (line:  67, col:   4):	space before function name
+src/utils.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  19, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: LINE_TOO_LONG        (line:  46, col:  83):	line too long
+Error: BRACE_SHOULD_EOL     (line:  50, col:   1):	Expected newline after brace
+src/time.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:  10):	space before function name
+Error: NO_ARGS_VOID         (line:  15, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  17, col:  19):	Found space when expecting tab
+Error: NEWLINE_PRECEDES_FUNC (line:  22, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line:  22, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  24, col:  14):	Found space when expecting tab
+Error: BRACE_SHOULD_EOL     (line:  29, col:   1):	Expected newline after brace
+src/status.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  21, col:   5):	Comment is invalid in this scope
+Error: EMPTY_LINE_FUNCTION  (line:  22, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  22, col:   1):	Space on empty line
+Error: WRONG_SCOPE_COMMENT  (line:  24, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  43, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  49, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  54, col:   5):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  67, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  68, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  69, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  70, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  71, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  72, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  73, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  74, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  75, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  76, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  77, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  78, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  79, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  80, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  83, col:   5):	space before function name
+includes/philo.h: Error!
+Error: MISALIGNED_VAR_DECL  (line:  32, col:  17):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  33, col:  21):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  34, col:  21):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  35, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  36, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  41, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  42, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  42, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  43, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  43, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  44, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  45, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  46, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  46, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  47, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  47, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  48, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  48, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  49, col:  16):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  49, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  50, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  54, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  55, col:  12):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  55, col:  13):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  56, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  56, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  57, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  60, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  61, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  64, col:  10):	Found space when expecting tab
+Error: NO_ARGS_VOID         (line:  64, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  65, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  68, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  69, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  70, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  73, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  74, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  77, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  78, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  79, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  80, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  81, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  84, col:   5):	Found space when expecting tab
+src/monitor.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  14):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line:  17, col:  24):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  18, col:   9):	Misaligned variable declaration
+Error: FORBIDDEN_CS         (line:  22, col:   9):	Forbidden control structure
+Error: LINE_TOO_LONG        (line:  25, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  29, col:  84):	line too long
+Error: LINE_TOO_LONG        (line:  32, col:  89):	line too long
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  13):	Comment is invalid in this scope
+Error: TOO_MANY_LINES       (line:  45, col:   1):	Function has more than 25 lines
+src/check.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   5):	space before function name
+Error: BRACE_SHOULD_EOL     (line:  33, col:   1):	Expected newline after brace
+src/init.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   8):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  29, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  30, col:   9):	Misaligned variable declaration
+Error: LINE_TOO_LONG        (line:  43, col:  85):	line too long
+Error: SPACE_BEFORE_FUNC    (line:  49, col:  12):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  51, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  52, col:   9):	Misaligned variable declaration
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: LINE_TOO_LONG        (line:  64, col:  82):	line too long
+src/philo.c: Error!
+Error: SPACE_AFTER_KW       (line:  27, col:  13):	Missing space after keyword
+Error: SPACE_AFTER_KW       (line:  30, col:  13):	Missing space after keyword
+Error: SPACE_BEFORE_FUNC    (line:  38, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  50, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: SPACE_BEFORE_FUNC    (line:  67, col:   4):	space before function name
+src/utils.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  19, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: LINE_TOO_LONG        (line:  46, col:  83):	line too long
+Error: BRACE_SHOULD_EOL     (line:  50, col:   1):	Expected newline after brace
+src/time.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:  10):	space before function name
+Error: NO_ARGS_VOID         (line:  15, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  17, col:  19):	Found space when expecting tab
+Error: NEWLINE_PRECEDES_FUNC (line:  22, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line:  22, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  24, col:  14):	Found space when expecting tab
+Error: BRACE_SHOULD_EOL     (line:  29, col:   1):	Expected newline after brace
+src/status.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  21, col:   5):	Comment is invalid in this scope
+Error: EMPTY_LINE_FUNCTION  (line:  22, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  22, col:   1):	Space on empty line
+Error: WRONG_SCOPE_COMMENT  (line:  24, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  43, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  49, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  54, col:   5):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  67, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  68, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  69, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  70, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  71, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  72, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  73, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  74, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  75, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  76, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  77, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  78, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  79, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  80, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  83, col:   5):	space before function name
+includes/philo.h: Error!
+Error: MISALIGNED_VAR_DECL  (line:  32, col:  17):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  33, col:  21):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  34, col:  21):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  35, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  36, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  41, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  42, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  42, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  43, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  43, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  44, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  45, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  46, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  46, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  47, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  47, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  48, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  48, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  49, col:  16):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  49, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  50, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  54, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  55, col:  12):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  55, col:  13):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  56, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  56, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  57, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  60, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  61, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  64, col:  10):	Found space when expecting tab
+Error: NO_ARGS_VOID         (line:  64, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  65, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  68, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  69, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  70, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  73, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  74, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  77, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  78, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  79, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  80, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  81, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  84, col:   5):	Found space when expecting tab
+src/monitor.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  14):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line:  17, col:  24):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  18, col:   9):	Misaligned variable declaration
+Error: FORBIDDEN_CS         (line:  22, col:   9):	Forbidden control structure
+Error: LINE_TOO_LONG        (line:  25, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  29, col:  84):	line too long
+Error: LINE_TOO_LONG        (line:  32, col:  89):	line too long
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  13):	Comment is invalid in this scope
+Error: TOO_MANY_LINES       (line:  45, col:   1):	Function has more than 25 lines
+src/check.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   5):	space before function name
+Error: BRACE_SHOULD_EOL     (line:  33, col:   1):	Expected newline after brace
+src/init.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   8):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  29, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  30, col:   9):	Misaligned variable declaration
+Error: LINE_TOO_LONG        (line:  43, col:  85):	line too long
+Error: SPACE_BEFORE_FUNC    (line:  49, col:  12):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  51, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  52, col:   9):	Misaligned variable declaration
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: LINE_TOO_LONG        (line:  64, col:  82):	line too long
+src/philo.c: Error!
+Error: SPACE_AFTER_KW       (line:  27, col:  13):	Missing space after keyword
+Error: SPACE_AFTER_KW       (line:  30, col:  13):	Missing space after keyword
+Error: SPACE_BEFORE_FUNC    (line:  38, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  50, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: SPACE_BEFORE_FUNC    (line:  67, col:   4):	space before function name
+src/utils.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  19, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: LINE_TOO_LONG        (line:  46, col:  83):	line too long
+Error: BRACE_SHOULD_EOL     (line:  50, col:   1):	Expected newline after brace
+src/time.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:  10):	space before function name
+Error: NO_ARGS_VOID         (line:  15, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  17, col:  19):	Found space when expecting tab
+Error: NEWLINE_PRECEDES_FUNC (line:  22, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line:  22, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  24, col:  14):	Found space when expecting tab
+Error: BRACE_SHOULD_EOL     (line:  29, col:   1):	Expected newline after brace
+src/status.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  21, col:   5):	Comment is invalid in this scope
+Error: EMPTY_LINE_FUNCTION  (line:  22, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  22, col:   1):	Space on empty line
+Error: WRONG_SCOPE_COMMENT  (line:  24, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  43, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  49, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  54, col:   5):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  67, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  68, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  69, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  70, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  71, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  72, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  73, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  74, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  75, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  76, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  77, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  78, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  79, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  80, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  83, col:   5):	space before function name
+includes/philo.h: Error!
+Error: SPACE_REPLACE_TAB    (line:  36, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  41, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  42, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  42, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  43, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  43, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  44, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  45, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  46, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  46, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  47, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  47, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  48, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  48, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  49, col:  16):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  49, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  50, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  54, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  55, col:  12):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  55, col:  13):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  56, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  56, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  57, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  60, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  61, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  64, col:  10):	Found space when expecting tab
+Error: NO_ARGS_VOID         (line:  64, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  65, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  68, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  69, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  70, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  73, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  74, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  77, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  78, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  79, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  80, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  81, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  84, col:   5):	Found space when expecting tab
+src/monitor.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  14):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line:  17, col:  24):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  18, col:   9):	Misaligned variable declaration
+Error: FORBIDDEN_CS         (line:  22, col:   9):	Forbidden control structure
+Error: LINE_TOO_LONG        (line:  25, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  29, col:  84):	line too long
+Error: LINE_TOO_LONG        (line:  32, col:  89):	line too long
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  13):	Comment is invalid in this scope
+Error: TOO_MANY_LINES       (line:  45, col:   1):	Function has more than 25 lines
+src/check.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   5):	space before function name
+Error: BRACE_SHOULD_EOL     (line:  33, col:   1):	Expected newline after brace
+src/init.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   8):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  29, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  30, col:   9):	Misaligned variable declaration
+Error: LINE_TOO_LONG        (line:  43, col:  85):	line too long
+Error: SPACE_BEFORE_FUNC    (line:  49, col:  12):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  51, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  52, col:   9):	Misaligned variable declaration
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: LINE_TOO_LONG        (line:  64, col:  82):	line too long
+src/philo.c: Error!
+Error: SPACE_AFTER_KW       (line:  27, col:  13):	Missing space after keyword
+Error: SPACE_AFTER_KW       (line:  30, col:  13):	Missing space after keyword
+Error: SPACE_BEFORE_FUNC    (line:  38, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  50, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: SPACE_BEFORE_FUNC    (line:  67, col:   4):	space before function name
+src/utils.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  19, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: LINE_TOO_LONG        (line:  46, col:  83):	line too long
+Error: BRACE_SHOULD_EOL     (line:  50, col:   1):	Expected newline after brace
+src/time.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:  10):	space before function name
+Error: NO_ARGS_VOID         (line:  15, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  17, col:  19):	Found space when expecting tab
+Error: NEWLINE_PRECEDES_FUNC (line:  22, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line:  22, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  24, col:  14):	Found space when expecting tab
+Error: BRACE_SHOULD_EOL     (line:  29, col:   1):	Expected newline after brace
+src/status.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  21, col:   5):	Comment is invalid in this scope
+Error: EMPTY_LINE_FUNCTION  (line:  22, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  22, col:   1):	Space on empty line
+Error: WRONG_SCOPE_COMMENT  (line:  24, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  43, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  49, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  54, col:   5):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  67, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  68, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  69, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  70, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  71, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  72, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  73, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  74, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  75, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  76, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  77, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  78, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  79, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  80, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  83, col:   5):	space before function name
+includes/philo.h: Error!
+Error: SPACE_REPLACE_TAB    (line:  36, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  41, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  41, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  42, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  42, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  43, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  43, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  44, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  44, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  45, col:   8):	Found space when expecting tab
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  45, col:  25):	Comment is invalid in this scope
+Error: SPACE_REPLACE_TAB    (line:  46, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  46, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  47, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  47, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  48, col:  20):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  48, col:  21):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  49, col:  16):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  49, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  50, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  54, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  55, col:  12):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  55, col:  13):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  56, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  56, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  57, col:   2):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  60, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  61, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  64, col:  10):	Found space when expecting tab
+Error: NO_ARGS_VOID         (line:  64, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  65, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  68, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  69, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  70, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  73, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  74, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  77, col:   4):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  78, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  79, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  80, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  81, col:   5):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  84, col:   5):	Found space when expecting tab
+src/monitor.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:  14):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line:  17, col:  24):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  18, col:   9):	Misaligned variable declaration
+Error: FORBIDDEN_CS         (line:  22, col:   9):	Forbidden control structure
+Error: LINE_TOO_LONG        (line:  25, col:  85):	line too long
+Error: LINE_TOO_LONG        (line:  29, col:  84):	line too long
+Error: LINE_TOO_LONG        (line:  32, col:  89):	line too long
+Error: WRONG_SCOPE_COMMENT  (line:  42, col:  13):	Comment is invalid in this scope
+Error: TOO_MANY_LINES       (line:  45, col:   1):	Function has more than 25 lines
+src/check.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   5):	space before function name
+Error: BRACE_SHOULD_EOL     (line:  33, col:   1):	Expected newline after brace
+src/init.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  27, col:   8):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  29, col:  12):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  30, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  30, col:   9):	Misaligned variable declaration
+Error: LINE_TOO_LONG        (line:  43, col:  85):	line too long
+Error: SPACE_BEFORE_FUNC    (line:  49, col:  12):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  51, col:  16):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  52, col:   9):	Misaligned variable declaration
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: LINE_TOO_LONG        (line:  64, col:  82):	line too long
+src/philo.c: Error!
+Error: SPACE_AFTER_KW       (line:  27, col:  13):	Missing space after keyword
+Error: SPACE_AFTER_KW       (line:  30, col:  13):	Missing space after keyword
+Error: SPACE_BEFORE_FUNC    (line:  38, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  40, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  50, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  52, col:   8):	Found space when expecting tab
+Error: SPACE_EMPTY_LINE     (line:  53, col:   1):	Space on empty line
+Error: SPACE_BEFORE_FUNC    (line:  67, col:   4):	space before function name
+src/utils.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  17, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  18, col:   8):	Found space when expecting tab
+Error: SPACE_REPLACE_TAB    (line:  19, col:   8):	Found space when expecting tab
+Error: SPACE_BEFORE_FUNC    (line:  40, col:   5):	space before function name
+Error: LINE_TOO_LONG        (line:  46, col:  83):	line too long
+Error: BRACE_SHOULD_EOL     (line:  50, col:   1):	Expected newline after brace
+src/time.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:  10):	space before function name
+Error: NO_ARGS_VOID         (line:  15, col:  20):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line:  17, col:  19):	Found space when expecting tab
+Error: NEWLINE_PRECEDES_FUNC (line:  22, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line:  22, col:   5):	space before function name
+Error: SPACE_REPLACE_TAB    (line:  24, col:  14):	Found space when expecting tab
+Error: BRACE_SHOULD_EOL     (line:  29, col:   1):	Expected newline after brace
+src/status.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:  15, col:   4):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  21, col:   5):	Comment is invalid in this scope
+Error: EMPTY_LINE_FUNCTION  (line:  22, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line:  22, col:   1):	Space on empty line
+Error: WRONG_SCOPE_COMMENT  (line:  24, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  43, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  49, col:   5):	space before function name
+Error: SPACE_BEFORE_FUNC    (line:  54, col:   5):	space before function name
+Error: WRONG_SCOPE_COMMENT  (line:  67, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  68, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  69, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  70, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  71, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  72, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  73, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  74, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  75, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  76, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  77, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  78, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  79, col:   5):	Comment is invalid in this scope
+Error: WRONG_SCOPE_COMMENT  (line:  80, col:   5):	Comment is invalid in this scope
+Error: SPACE_BEFORE_FUNC    (line:  83, col:   5):	space before function name
