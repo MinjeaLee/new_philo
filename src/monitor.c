@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 02:13:51 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 05:26:45 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 05:29:23 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,35 +38,24 @@ int	check_num_eat(t_monitor *monitor)
 	return (0);
 }
 
-void *monitor_philosophers(void *arg)
+void	*monitor_philosophers(void *arg)
 {
-	t_monitor *monitor = (t_monitor *)arg;
-	int i;
+	t_monitor	*monitor;
+	int			i;
 
+	monitor = (t_monitor *)arg;
 	while (1)
 	{
-		for (i = 0; i < monitor->resources->num_philosophers; i++)
+		i = 0;
+		while (i < monitor->resources->num_philosophers)
 		{
 			pthread_mutex_lock(&monitor->resources->data_mutex);
 			if (check_lifespan(monitor))
 				return (NULL);
-			// if (get_time() - monitor->philo->last_eat > monitor->resources->lifespan)
-			// {
-			// 	monitor->resources->finish_program = 1;
-			// 	pthread_mutex_unlock(&monitor->resources->data_mutex);
-			// 	printf("%lld %d died\n", get_time() - monitor->resources->start_time, monitor->philo->id);
-			// 	return (NULL);
-			// }
 			if (check_num_eat(monitor))
 				return (NULL);
-			// if (monitor->resources->num_finished == monitor->resources->num_philosophers)
-			// {
-			// 	monitor->resources->finish_program = 1;
-			// 	pthread_mutex_unlock(&monitor->resources->data_mutex);
-			// 	printf("finish\n");
-			// 	return (NULL);
-			// }
 			pthread_mutex_unlock(&monitor->resources->data_mutex);
+			i++;
 		}
 		ft_sleep(100);
 	}
