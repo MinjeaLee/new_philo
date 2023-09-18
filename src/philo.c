@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:39:38 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 05:17:17 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 05:33:03 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,10 +24,10 @@ void	*philosopher_routine(void *arg)
 	while (1)
 	{
 		if (philo_eat(philo))
-			break;
+			break ;
 		pthread_mutex_lock(&philo->resources->data_mutex);
 		if (philo->resources->finish_program)
-			break;
+			break ;
 		pthread_mutex_unlock(&philo->resources->data_mutex);
 		philo_sleep(philo);
 		philo_think(philo);
@@ -35,9 +35,9 @@ void	*philosopher_routine(void *arg)
 	return (NULL);
 }
 
-void start_philosopher_threads(t_philo *philo)
+void	start_philosopher_threads(t_philo *philo)
 {
-	int i;
+	int	i;
 
 	i = 0;
 	while (i < philo->resources->num_philosophers)
@@ -47,10 +47,10 @@ void start_philosopher_threads(t_philo *philo)
 	}
 }
 
-void clean_up(t_philo *philo, t_resources *resources)
+void	clean_up(t_philo *philo, t_resources *resources)
 {
-	int i;
-	
+	int	i;
+
 	i = 0;
 	while (i < resources->num_philosophers)
 		pthread_join(philo[i++].thread, NULL);
@@ -64,7 +64,7 @@ void clean_up(t_philo *philo, t_resources *resources)
 	free(resources);
 }
 
-int main(int argc, char **argv)
+int	main(int argc, char **argv)
 {
 	t_resources	*resources;
 	t_philo		*philo;
