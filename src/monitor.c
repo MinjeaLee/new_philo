@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 02:13:51 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 20:25:46 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 22:28:45 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -57,7 +57,7 @@ void	*monitor_philosophers(void *arg)
 			pthread_mutex_unlock(&monitor->resources->data_mutex);
 			i++;
 		}
-		ft_sleep(52);
+		ft_sleep(1);
 	}
 	return (NULL);
 }
