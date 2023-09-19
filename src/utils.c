@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:52:23 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 20:17:38 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 20:23:49 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,14 +49,15 @@ void	print_status(t_philo *philo, char *status)
 	}
 	pthread_mutex_unlock(&philo->resources->data_mutex);
 }
-int ft_isdigit(int c)
+
+int	ft_isdigit(int c)
 {
 	if (c >= '0' && c <= '9')
 		return (1);
 	return (0);
 }
 
-void *alone_philo(t_philo *philo)
+void	*alone_philo(t_philo *philo)
 {
 	pthread_mutex_lock(philo->left_fork);
 	print_status(philo, "has taken a fork");
@@ -64,7 +65,7 @@ void *alone_philo(t_philo *philo)
 	return (NULL);
 }
 
-int ft_strcmp(const char *str1, const char *str2)
+int	ft_strcmp(const char *str1, const char *str2)
 {
 	while (*str1 && (*str1 == *str2))
 	{

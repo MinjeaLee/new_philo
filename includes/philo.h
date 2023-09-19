@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:29:25 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 20:17:42 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 20:26:39 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,8 +62,8 @@ void		*alone_philo(t_philo *philo);
 void		print_status(t_philo *philo, char *status);
 int			ft_atoi(const char *str);
 char		*ft_itoa(int n);
-int ft_isdigit(int c);
-int ft_strcmp(const char *str1, const char *str2);
+int			ft_isdigit(int c);
+int			ft_strcmp(const char *str1, const char *str2);
 
 //time.c
 long long	get_time(void);
@@ -75,7 +75,7 @@ t_philo		*init_philo(t_resources *resources);
 t_resources	*init_resources(int argc, char **argv);
 
 // check.c
-int checksum(int argc, char **argv);
+int			checksum(int argc, char **argv);
 
 // status.c
 int			philo_eat(t_philo *philo);

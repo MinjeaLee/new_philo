@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 02:13:51 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 19:46:21 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 20:25:46 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ int	check_lifespan(t_monitor *monitor, int i)
 		monitor->resources->finish_program = 1;
 		pthread_mutex_unlock(&monitor->resources->data_mutex);
 		printf("%lld %d died\n", get_time() - monitor->resources->start_time, \
-														monitor->philo[i].id + 1);
+													monitor->philo[i].id + 1);
 		return (1);
 	}
 	return (0);

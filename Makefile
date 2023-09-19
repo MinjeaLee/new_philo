@@ -6,14 +6,14 @@
 #    By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/08 11:21:18 by mi                #+#    #+#              #
-#    Updated: 2023/09/19 20:04:02 by mi               ###   ########.fr        #
+#    Updated: 2023/09/19 20:26:48 by mi               ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = philo
 
 CC = cc
-CFLAGS = -Wall -Wextra -Werror -g3 #-fsanitize=thread
+CFLAGS = -Wall -Wextra -Werror -g3
 HEADER = ./includes
 
 SRCS =	./src/philo.c \
