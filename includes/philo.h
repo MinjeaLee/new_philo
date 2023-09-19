@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:29:25 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 05:22:06 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 17:20:44 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ typedef struct s_resources
 	int				lifespan;
 	int				eat_duration;
 	int				sleep_duration;
-	int				min_eat_count;	
+	int				min_eat_count;
 	int				num_finished;
 	int				finish_program;
 	long long		start_time;
@@ -70,7 +70,6 @@ t_philo		*init_philo(t_resources *resources);
 t_resources	*init_resources(int argc, char **argv);
 
 // check.c
-int			check_exit(t_philo *philo);
 void		*alone_philo(t_philo *philo);
 
 // status.c

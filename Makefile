@@ -6,7 +6,7 @@
 #    By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/08 11:21:18 by mi                #+#    #+#              #
-#    Updated: 2023/09/19 04:54:17 by mi               ###   ########.fr        #
+#    Updated: 2023/09/19 17:22:47 by mi               ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -23,7 +23,7 @@ SRCS =	./src/philo.c \
 		./src/time.c	\
 		./src/monitor.c \
 		./src/check.c
-	
+
 OBJS = $(SRCS:%.c=%.o)
 
 all: $(NAME)
@@ -37,7 +37,7 @@ $(NAME): $(OBJS)
 re: fclean all
 
 clean:
-	@rm -f $(OBJS) 
+	@rm -f $(OBJS)
 	@echo "\033[31m[Success] \033[0m$(NAME) clean"
 
 fclean: clean

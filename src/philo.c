@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:39:38 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 05:33:03 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 17:26:39 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,14 +20,17 @@ void	*philosopher_routine(void *arg)
 	if (philo->resources->num_philosophers == 1)
 		return (alone_philo(philo));
 	if (philo->id % 2 == 0)
-		ft_sleep(philo->resources->eat_duration);
+		ft_sleep(philo->resources->eat_duration - 100);
 	while (1)
 	{
 		if (philo_eat(philo))
 			break ;
 		pthread_mutex_lock(&philo->resources->data_mutex);
 		if (philo->resources->finish_program)
+		{
+			pthread_mutex_unlock(&philo->resources->data_mutex);
 			break ;
+		}
 		pthread_mutex_unlock(&philo->resources->data_mutex);
 		philo_sleep(philo);
 		philo_think(philo);

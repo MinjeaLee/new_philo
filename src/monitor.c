@@ -6,20 +6,20 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 02:13:51 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 05:29:23 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 17:51:59 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
 
-int	check_lifespan(t_monitor *monitor)
+int	check_lifespan(t_monitor *monitor, int i)
 {
-	if (get_time() - monitor->philo->last_eat > monitor->resources->lifespan)
+	if (get_time() - monitor->philo[i].last_eat > monitor->resources->lifespan)
 	{
 		monitor->resources->finish_program = 1;
 		pthread_mutex_unlock(&monitor->resources->data_mutex);
 		printf("%lld %d died\n", get_time() - monitor->resources->start_time, \
-															monitor->philo->id);
+														monitor->philo[i].id + 1);
 		return (1);
 	}
 	return (0);
@@ -50,14 +50,14 @@ void	*monitor_philosophers(void *arg)
 		while (i < monitor->resources->num_philosophers)
 		{
 			pthread_mutex_lock(&monitor->resources->data_mutex);
-			if (check_lifespan(monitor))
+			if (check_lifespan(monitor, i))
 				return (NULL);
 			if (check_num_eat(monitor))
 				return (NULL);
 			pthread_mutex_unlock(&monitor->resources->data_mutex);
 			i++;
 		}
-		ft_sleep(100);
+		ft_sleep(52);
 	}
 	return (NULL);
 }
