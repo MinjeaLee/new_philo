@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:29:25 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 17:20:44 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 20:17:42 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@
 # include <unistd.h>
 # include <stdlib.h>
 # include <sys/time.h>
+# include <limits.h>
 # include <string.h>
 
 typedef struct s_resources
@@ -57,8 +58,12 @@ typedef struct s_monitor
 }	t_monitor;
 
 // utils.c
-int			ft_atoi(const char *str);
+void		*alone_philo(t_philo *philo);
 void		print_status(t_philo *philo, char *status);
+int			ft_atoi(const char *str);
+char		*ft_itoa(int n);
+int ft_isdigit(int c);
+int ft_strcmp(const char *str1, const char *str2);
 
 //time.c
 long long	get_time(void);
@@ -70,7 +75,7 @@ t_philo		*init_philo(t_resources *resources);
 t_resources	*init_resources(int argc, char **argv);
 
 // check.c
-void		*alone_philo(t_philo *philo);
+int checksum(int argc, char **argv);
 
 // status.c
 int			philo_eat(t_philo *philo);

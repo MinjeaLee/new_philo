@@ -6,7 +6,7 @@
 #    By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/08 11:21:18 by mi                #+#    #+#              #
-#    Updated: 2023/09/19 17:22:47 by mi               ###   ########.fr        #
+#    Updated: 2023/09/19 20:04:02 by mi               ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,6 +18,7 @@ HEADER = ./includes
 
 SRCS =	./src/philo.c \
 		./src/utils.c \
+		./src/utils2.c \
 		./src/init.c \
 		./src/status.c \
 		./src/time.c	\

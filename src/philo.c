@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:39:38 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 17:26:39 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 20:16:13 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -73,8 +73,10 @@ int	main(int argc, char **argv)
 	t_philo		*philo;
 	t_monitor	monitor;
 
-	if (argc < 5 || argc > 6)
+	if (!checksum(argc, argv) || (argc < 5 || argc > 6)){
+		printf("Error: Invalid arguments\n");
 		return (1);
+	}
 	resources = init_resources(argc, argv);
 	if (!resources)
 		return (1);
