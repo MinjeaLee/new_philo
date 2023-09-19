@@ -6,7 +6,7 @@
 /*   By: mi <mi@student.42seoul.kr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 00:29:25 by mi                #+#    #+#             */
-/*   Updated: 2023/09/19 20:26:39 by mi               ###   ########.fr       */
+/*   Updated: 2023/09/19 22:36:38 by mi               ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,10 +40,9 @@ typedef struct s_philo
 {
 	int				id;
 	int				num_eat;
+	int				finish_eat;
 	long long		last_eat;
 	long long		start_eat;
-	int				finish_eat;
-	int				is_eating;
 	pthread_t		thread;
 	pthread_mutex_t	*left_fork;
 	pthread_mutex_t	*right_fork;
